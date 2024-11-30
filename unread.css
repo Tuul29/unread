@@ -434,14 +434,14 @@ footer {
   height: 18px;
 }
 .top > .contact {
-  width: 320px;
+  width: 323px;
   height: 90px;
   padding: 15px;
   display: flex;
-  gap: 10px;
-  border: solid black 1px;
+  gap: 20px;
+  border: solid grey 1px;
   border-radius: 25px;
-  background-color: #888888;
+  background-color: black;
 }
 .top > .contact > nav {
   padding: 5px;
@@ -454,7 +454,11 @@ footer {
   color: #fff;
   font-size: 15px;
 }
-.top > .contact. div {
+.sum {
+  width: 54px;
+  height: 54px;
+  border: solid black 1px;
+  border-radius: 50%;
 }
 .about {
   width: 650px;
@@ -462,4 +466,8 @@ footer {
 }
 .group > .text {
   display: flex;
+  color: #888888;
+}
+.title.h5 {
+  color: #fff;
 }
